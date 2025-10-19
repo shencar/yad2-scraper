@@ -1,10 +1,10 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken": "8316819747:AAECVrVmJJ34Yq6_PmhVypTtNuX4gFQtiEY",
+  "chatId": "8316819747",
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "car",
+      "url": "https://www.yad2.co.il/vehicles/cars?carFamilyType=1%2C2&manufacturer=48%2C21&price=-1-50000&gearBox=101&priceOnly=1&imgOnly=1&Order=5"
     }
   ]
 }
